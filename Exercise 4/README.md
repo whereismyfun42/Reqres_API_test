@@ -6,4 +6,3 @@ A Kali Linux virtual machine, no matter how installed - both VMware and Windows 
 To connect to the machine, a free Tryhackme account is required. The machine page is here: https://tryhackme.com/room/dailybugle
 To connect a vpn connection should be established through OpenVPN, the config can be found here: https://tryhackme.com/access
 
-After connecting and launching the machine, lets start with recon:
